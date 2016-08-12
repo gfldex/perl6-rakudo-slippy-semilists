@@ -1,7 +1,7 @@
 # Rakudo::Slippy::Semilist
 [![Build Status](https://travis-ci.org/gfldex/perl6-rakudo-slippy-semilist.svg?branch=master)](https://travis-ci.org/gfldex/perl6-rakudo-slippy-semilist)
 
-Implement postcircumfix:<{|| }> to allow coercion of Array to semilist.
+Implement `postcircumfix:<{|| }>` to allow coercion of Array to semilist.
 see: http://design.perl6.org/S09.html#line_419
 
 # Usage:
