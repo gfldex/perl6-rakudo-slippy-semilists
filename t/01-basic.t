@@ -7,7 +7,6 @@ plan 7;
 my %h;
 my @a = 1..3;
 %h{||@a} = 42;
-dd %h;
 
 is %h{1}{2}{3}, 42, 'chaining subscript';
 is %h{1;2;3}, 42, 'semilist literal';
