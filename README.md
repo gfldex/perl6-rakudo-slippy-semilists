@@ -1,5 +1,5 @@
 # Rakudo::Slippy::Semilist
-[![Build Status](https://travis-ci.org/gfldex/perl6-rakudo-slippy-semilist.svg?branch=master)](https://travis-ci.org/gfldex/perl6-rakudo-slippy-semilist)
+[![Build Status](https://travis-ci.org/gfldex/perl6-rakudo-slippy-semilists.svg?branch=master)](https://travis-ci.org/gfldex/perl6-rakudo-slippy-semilists)
 
 Implements `postcircumfix:<{|| }>` to allow coercion of Array to semilist.
 Implements `postcircumfix:<{; }>:exists` and `postcircumfix:<{|| }>`.
