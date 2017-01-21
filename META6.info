@@ -1,4 +1,5 @@
 {
+    "perl" : "6.*",
     "name" : "Rakudo::Slippy::Semilist",
     "version" : "0.0.1",
     "author" : "Wenzel P. P. Peppmeyer",
