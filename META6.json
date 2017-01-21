@@ -12,5 +12,5 @@
     },
     "depends" : [ ],
     "source-type" : "git",
-    "source-url" : "git://github.com/gfldex/perl6-operator-defined-alternation.git"
+    "source-url" : "git://github.com/gfldex/perl6-rakudo-slippy-semilists/"
 }
